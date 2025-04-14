@@ -1,2 +1,5 @@
 Este é um arquivo de teste
 Nova linha adicionada
+Alteração feita diretamente no GitHub:
+Data: 14/04/2025. 
+Autor: rmgADS
